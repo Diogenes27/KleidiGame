@@ -2,7 +2,7 @@
 A simple unix-style command-line game about hacking. 
 
 
-After pressing run, resize console window height so "KLEIDI" is barely visible.
+After pressing run, resize console window height so "KLEIDI" is barely visible on the splashscreen before you continue.
 
 The game is designed to be run in a 25 high by 80 wide terminal window. Please resize terminal window accordingly.
 
